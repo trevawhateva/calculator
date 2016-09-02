@@ -1,0 +1,48 @@
+body {
+  background: #66B9BF;
+  padding: 100px;
+}
+
+#outer {
+  background: #E37222;
+  height: 405px;
+  width: 315px;
+  padding: 1px 1px 1px 1px;
+  margin: 0 auto;
+}
+
+#title {
+  text-align: center;
+  color: #F1F1EF;
+}
+
+#entry {
+  background: #07889B;
+  text-align: right;
+  color: #F1F1EF;
+  width: 75%;
+  height: 20px;
+  padding: 2px 15px 2px 15px;
+  margin: 0 auto;
+}
+
+#btnholder {
+  margin: 15px 5px 5px 8px;
+  height: 290px;
+}
+
+.calc {
+  background: #F4F4F4;
+  text-align: center;
+  border-color: #66B9BF;
+  border-style: solid;
+  border-width: 1px;
+  width: 24%;
+  height: 19.3%;
+  float: left;
+  margin: 0 auto;
+  cursor: default;
+  -webkit-user-select: none; /* Chrome/Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+ */
+}
